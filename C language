@@ -10,7 +10,7 @@ printf("the array item before initialization/n")
 {
 printf("item at index[%d]=%d)";i,ab[i]);
 }
-printf("implementing the insert op);
+printf("impleming the insert op);
   i=j
  while(i>k)
  {
